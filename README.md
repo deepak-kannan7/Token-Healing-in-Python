@@ -5,6 +5,7 @@ Token healing is a technique used to correct errors in text by identifying and r
 Edit: I have done the corrections using a library called Gingerit to handle all kinds of errors and the code is available in TokenHealing.ipynb. 
 
 My presentation to the company: 
+
 My Work Flow in the 12 hours given: 
 
 Hour 0-1: Deciding on which question to attempt, read through the problem statements and decided to take up token healing because it is an NLP project which is my field of interest. 
