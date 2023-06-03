@@ -2,6 +2,8 @@
 
 Token healing is a technique used to correct errors in text by identifying and replacing incorrect or mistyped tokens with their intended correct forms. It is about developing algorithms to handle spell errors, grammatical errors and missing or extra words. I started of with a brute force method of token healing in TokenHealingTry.ipynb. Improving on them, I have provided simple solutions using NLTK and spaCy to handle spell errors. To handle grammatical errors, I tried using Hugging Face's transformers and Grammarly's GECToR libraries, but my code gives erroneous outputs. As I had to submit whatever I could in the 12 hours given, I have also included the erroneous codes in this repo. 
 
+Edit: I have done the corrections using a library called Gingerit to handle all kinds of errors and the code is available in TokenHealing.ipynb. 
+
 My presentation to the company: 
 My Work Flow in the 12 hours given: 
 
